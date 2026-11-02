@@ -1,0 +1,2 @@
+Python is an programing language, unlike java it is easy to learn. Python is powerfull language.
+Using Python we can work on AI/ML
